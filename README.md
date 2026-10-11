@@ -2,7 +2,7 @@
 
 **Product Manager, 11 years in games. Building AI tools for consumer (B2C) products.**
 
-I started as a Unity engineer (6.5 years of shipped mobile and web games), then moved into product management in the same domain. I read code, run my own root-cause analysis, and do not need a translation layer between product and engineering. Today I own LiveOps, retention and monetization on a live mobile title, and I build AI-assisted products in my own time.
+I started as a Unity engineer (6+ years of shipped mobile and web games), then moved into product management in the same domain. I read code, run my own root-cause analysis, and do not need a translation layer between product and engineering. Today I own LiveOps, retention and monetization on a live mobile title, and I build AI-assisted products in my own time.
 
 [Portfolio](https://rahulohri.com) | [LinkedIn](https://www.linkedin.com/in/rahul-ohri)
 
@@ -24,7 +24,7 @@ I started as a Unity engineer (6.5 years of shipped mobile and web games), then 
 
 ## What I am working on now
 
-Moving from games into AI product management for consumer products. The focus is shipping AI features with evals, guardrails and cost limits, and measuring them in public. The FPL project is the first case study.
+Adding AI product work to a games background: building and measuring AI features for consumer and game products. The focus is shipping AI features with evals, guardrails and cost limits, and measuring them in public. The FPL project is the first case study.
 
 ## Where I fit
 
